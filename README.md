@@ -9,6 +9,10 @@ The test bench is a development platform for trying out different control algori
 
 More documentation can be found at https://devanthro.atlassian.net/wiki/spaces/WS2223/pages/2739437602/NTC+Documentation
 
+Trailer: https://www.youtube.com/watch?v=as4rGx1AHN8
+
+Presentation: https://www.youtube.com/watch?v=MKyQ8viW0-g (Start at 58:00)
+
 # Installation
 
 1. Clone this repository
